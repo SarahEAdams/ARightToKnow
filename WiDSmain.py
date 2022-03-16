@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from urllib.request import urlopen
-import json
 import plotly.graph_objects as go
 import plotly.offline 
 import plotly.figure_factory as ff
@@ -13,8 +11,6 @@ from operator import add, sub
 import math
 from pathlib import Path
 import re 
-from pandas.api.types import CategoricalDtype
-
 
 #st.markdown('<style>body{background-color: Black;}</style>',unsafe_allow_html=True)
 
