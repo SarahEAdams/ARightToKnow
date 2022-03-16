@@ -7,3 +7,6 @@ Pillow==7.0.0
 mpmath==1.1.0
 pathlib2==2.3.5
 requests==2.25.1
+geopandas==0.3.0
+pyshp==1.2.10
+shapely==1.6.3
